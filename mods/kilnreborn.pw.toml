@@ -1,0 +1,13 @@
+name = "KilnReborn"
+filename = "KilnReborn-1.2.1-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LX5vxk9S/versions/CECiKvDL/KilnReborn-1.2.1-1.21.jar"
+hash-format = "sha512"
+hash = "d7b8a556d127a53c05706755bf62ffdaf60f850d1f3f5e19bf00e389a579d66cb308b75d269addaf2aaecf6473464fe8a2125dee60c8bb967b8b6437ea34bd8f"
+
+[update]
+[update.modrinth]
+mod-id = "LX5vxk9S"
+version = "CECiKvDL"
