@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
+hash = "0f7038a12a9ebf586426c75f15fdb537ba4269083529400fc29b854cd190939e"
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "a994ae9f75079a5ab89396a91751ab2f03dde4dbe595eb3761e6fc3746fba1ce"
 metafile = true
@@ -329,6 +333,10 @@ metafile = true
 file = "mods/iris.pw.toml"
 hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
+
+[[files]]
+file = "mods/ironrod_1.21.1-1.0.0.jar"
+hash = "2eb67e1069793360e48d6831feb418bb6e795661031834129952f1bb66cc8e5c"
 
 [[files]]
 file = "mods/item-components.pw.toml"
