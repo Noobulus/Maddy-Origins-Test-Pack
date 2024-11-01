@@ -1093,7 +1093,7 @@ hash = "be96b8d7de00148ddf11335aa801399dee00ff02a85f7bef28d4f93ac94c5525"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/pack.mcmeta"
-hash = "90eb5beeb134f031eefceb6800983ba85cbf8ea2f59537d70ecd8c31e8476eef"
+hash = "1f49e3821dc34c3319744097dd0d91dc2c262ad91813ef6fa860631ac5eff72a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/breakerplacer/recipe/breaker.json"
@@ -1557,7 +1557,7 @@ hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "e5d9981331fd887fe850c8f61dea05076d5f437ed814722b46d0d245399f81a0"
+hash = "0788b95c80514adb81b23c5ee023818c88aa5e0c9bdd3cc2f66bf400137ce861"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -1829,7 +1829,7 @@ hash = "5c757750491325b671e02980f44996a283e078c2b6f11255dcb4f847cc2fa9c6"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/pack.mcmeta"
-hash = "7ad3d559116a034340b657b9c5de09b336f2ae6d941018b7f6d3ce54103a344f"
+hash = "9bd5c4877efc86a8fd9588ef1be1ab6b5ab1b996c3e81b6c15ece17c8e642e3e"
 
 [[files]]
 file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/lang/en_us.json"
@@ -1849,7 +1849,7 @@ hash = "98d6dd11fb24bfb4d487d48759e12af7a32aa2b0f0d93187e400971038858c22"
 
 [[files]]
 file = "resources/resourcepack/required/maddy_origins/pack.mcmeta"
-hash = "c5f747caaf78fd57c2ae9e3650d8d5369b33b5b9e6119a2b32d59ce5e0343acb"
+hash = "f6095c10826104c7a746802ece494ccd1415e2d9348e192ab4532afcdac97bfe"
 
 [[files]]
 file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/lang/en_us.json"
@@ -1877,4 +1877,4 @@ hash = "f35d81e8373ff52c21be098eb728043f2cb70f7b85f21b20de3054a9e82eb357"
 
 [[files]]
 file = "resources/resourcepack/required/spoingly slimes paintings/pack.mcmeta"
-hash = "d6ccc463351905581fc031a3072242c7d641d8597c75c3635d2294aa3c93dd84"
+hash = "c108e655bd3408a5504d196a2a56e42775f1c7fb89802fabc0c74dcc976f7e48"
