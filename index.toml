@@ -33,6 +33,10 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "c7174c97566a831e354cbbb02943f9160165b1c0b8421a84d6060bb752feb473"
+
+[[files]]
 file = "config/adjusted-phantom-spawns.json"
 hash = "84f748834e810d28503cb94700b39251f21f22cda2fba1757bd415c56f91a69c"
 
@@ -69,6 +73,10 @@ file = "config/cardinal-components-api.properties"
 hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "a9887024ab932bdb397edbed1c6fc1d886033212f201c96eb0dd78eaa96981de"
+
+[[files]]
 file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
@@ -99,6 +107,10 @@ hash = "05b769edcd89896aa8d0268712641279bff03ca5df0b9440dfe88024d04b5f9d"
 [[files]]
 file = "config/debugify.json"
 hash = "e7ed47713ff6f09bcfd5c9f7779097ca7349e1d4d155e3c417c13667d6cf2a9b"
+
+[[files]]
+file = "config/dramaticdoors-startup.toml"
+hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
 
 [[files]]
 file = "config/dummmmmmy-client.json"
@@ -317,18 +329,6 @@ file = "config/smoothskies.json"
 hash = "6d42e7f3443246e2102bd1a29cfe6a13c7733ca0d8a45b8a1bc65512d346a406"
 
 [[files]]
-file = "config/sodium-fingerprint.json"
-hash = "aa55188fc99eace3b0ba7e98c1d737b91e834f03e99465455a64be3d495fd2f7"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "e635aeb4d04466b5dafe1d6da7e8b996bc599a9d1f2074a259597970c1c0cb8c"
-
-[[files]]
 file = "config/sootychimneys-client.toml"
 hash = "a59191cb60cdc9bf715f30e1d1ca21cc845c5930c89aae96a5f0873d01d87157"
 
@@ -361,6 +361,10 @@ file = "config/unloaded-activity.json"
 hash = "855e335b591262fb4e5f1d2b4579c621b36d24fa842f00e7ba400026cb37ca08"
 
 [[files]]
+file = "config/vanityslots-server.toml"
+hash = "9809c24f7f50079843c63f6b1e54dc5e93611efe97c99d8d53e1685b4a1d9941"
+
+[[files]]
 file = "config/watut-client.toml"
 hash = "f4c9cf297940147112dbbc65c6ae351f92829f8889fa0c91d14019431eeb6206"
 
@@ -388,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/additionalentityattributes.pw.toml"
-hash = "3a6bf15ba79ce0075b6e796314c5b2a10fdd250d197b183a314ef550c817f291"
+hash = "5cbeaac6d3e9c4448ce9e790f8d3072d9c23cb29c849a6ef6760977ec09107ad"
 metafile = true
 
 [[files]]
@@ -402,13 +406,18 @@ hash = "2a5dd47c645d2539d7722ac7ef572eeeb1b8b290e3a190e099212b85a0692f58"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "36b311ab2c828ad8c490b539ae0cffdac8438be7c997a71a1c782af924114c15"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
@@ -437,6 +446,11 @@ hash = "98f900ff9f44bd7a27867c3e8e7757ea2b9cf3b9a11d0f567bea629103ddcf71"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "ecb1e63b15ddbaf45af311d4d97c5cea8338df18514e3369700f47ba599e8e16"
+metafile = true
+
+[[files]]
 file = "mods/bandutys-dfwmi.pw.toml"
 hash = "ad4a96b699bc043974c748739703ee81ab00a2df97bf99bdd0765c25bdd0cc44"
 metafile = true
@@ -457,6 +471,11 @@ hash = "788d94206d238b08ef6c56af5fd01b2bdd6ca3baa04e27b4b6d6521801015fa4"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
+metafile = true
+
+[[files]]
 file = "mods/biome-moss.pw.toml"
 hash = "5408ef39da972108879e6bd5d9824c545014f205ed82bb8453630db487b06963"
 metafile = true
@@ -469,11 +488,6 @@ metafile = true
 [[files]]
 file = "mods/brainier-bees.pw.toml"
 hash = "cc3c46250286b41f429f69ac3a8e01e1194afc951cc77101032cddaccc051f12"
-metafile = true
-
-[[files]]
-file = "mods/breakerplacer.pw.toml"
-hash = "a4695100ca0d6525dca30f4cbea5c0e6744f76d6ac8009124f6fa96ad091dd19"
 metafile = true
 
 [[files]]
@@ -552,6 +566,16 @@ hash = "154da3a0b0562de3686d73ae5d3e550881416bc209574f30a773129a594e8336"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "dd7d56c815477073adfcb718c933d2b7cd08cb4c29d26d2409b9b8feac55d3fe"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
 metafile = true
@@ -598,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d8acaaf4df817594354973490b12dbc38dc8f9089b2355469ee513ca61dd3a94"
+hash = "84a4b652ef5af08d17d349859027c5768488426f490f553753925871bd270bfa"
 metafile = true
 
 [[files]]
@@ -628,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "7ea9c18a23b0d98dd5e40cde6060248f3c1712dbd6cf64c1c15f8ad914160302"
+hash = "abdb5264b469712604f1fcb31698ad4a76810eeb9d6fa1de6f86962b7dec3f3a"
 metafile = true
 
 [[files]]
@@ -746,8 +770,18 @@ hash = "ed9cb377eff8bcf156163dc3b4d125b568cd2c300a5402e12fffe56602dcc0c6"
 metafile = true
 
 [[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "903a222e6461d6db7c959e40a988bcc9f02f27e85add42ccf21e3d814c244ff5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+metafile = true
+
+[[files]]
+file = "mods/map-tooltip.pw.toml"
+hash = "68167641fe33832f6bc3eac33825ddc85f40175d9ab2941406e251a9a2534104"
 metafile = true
 
 [[files]]
@@ -767,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b57fd1c418acba5ed8b06222aeacfae0a49b2da053066a44ec27def4340162e8"
+hash = "e55bc1e8e1392060ccc7247bfb0be8b9e5a8b98c083251236e0cbcca08628a8c"
 metafile = true
 
 [[files]]
@@ -858,6 +892,11 @@ metafile = true
 [[files]]
 file = "mods/reacharound.pw.toml"
 hash = "f5aa8a4410d84e6ab5dd3797e2b900b26f669bd801ace7aab19ed987c4a05001"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "207c2a73badfeca6051b7e9d86a9b3addb43e6d325f0f2cea432ddbd1bd814ef"
 metafile = true
 
 [[files]]
@@ -991,6 +1030,11 @@ hash = "52fe379cac9fc7ea76fd7c527fddfe50f0c48fa5aef351acca40bde83228d185"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
 file = "mods/zombie-conversion.pw.toml"
 hash = "357c6da2d89d4ed7bc8d422a5f3b78ba71a958aa2c7bc2c0e0ebb07f9c5ea10c"
 metafile = true
@@ -998,6 +1042,10 @@ metafile = true
 [[files]]
 file = "resources/datapack/required/NoZombieSieges.zip"
 hash = "16a6159cb45b4ca8a6c63d2a479ecf4c12b32e08b3d2a7b98182adc0e8f3251b"
+
+[[files]]
+file = "resources/datapack/required/Tidying_3_Even_Tidier.zip"
+hash = "c35dd51a8dd5a89a6918d38951d11015eb7fdf2046750b6b2e90188a537967a7"
 
 [[files]]
 file = "resources/datapack/required/bundle/data/minecraft/advancement/recipes/tools/bundle.json"
@@ -1486,14 +1534,6 @@ hash = "be96b8d7de00148ddf11335aa801399dee00ff02a85f7bef28d4f93ac94c5525"
 [[files]]
 file = "resources/datapack/required/maddy_origins/pack.mcmeta"
 hash = "1f49e3821dc34c3319744097dd0d91dc2c262ad91813ef6fa860631ac5eff72a"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/breakerplacer/recipe/breaker.json"
-hash = "fe91df5fe1c5e76b2887f4e6a54328e534e72224ce8dc8c5483252f0e0ae01bc"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/breakerplacer/recipe/placer.json"
-hash = "38b4b4f25507c578db1e1089ec70d39f443d95faa06b91d86d70f621d96b589a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
