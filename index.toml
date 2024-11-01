@@ -488,12 +488,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "54f2b9609b14158941951ca10de56d5efa478b88a3a25ad5390bebbefcd08ff9"
+hash = "136593ec659bd0d255a70cd1fa9ee8dac89f942915fc6c14f46d9c783e89341e"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
+hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
 metafile = true
 
 [[files]]
@@ -582,6 +582,11 @@ hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "94c8335f5c328b50389c520f9e17da458ee86f5043c7ba0bc7b289ce47c26f2b"
+metafile = true
+
+[[files]]
 file = "mods/dyed-item-frames.pw.toml"
 hash = "32fac2de620b983e64492c47ecc33f6a5b318c60e635dc7de783b49680076279"
 metafile = true
@@ -623,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "194b608753e69da088e7de784730d77ff97ac239f1a8e173761467c078729e8b"
+hash = "7ea9c18a23b0d98dd5e40cde6060248f3c1712dbd6cf64c1c15f8ad914160302"
 metafile = true
 
 [[files]]
@@ -738,11 +743,6 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "ed9cb377eff8bcf156163dc3b4d125b568cd2c300a5402e12fffe56602dcc0c6"
-metafile = true
-
-[[files]]
-file = "mods/kilnreborn.pw.toml"
-hash = "7fd8c7782d517da7fc5c6f14e5e3835d4be3b41fd82ea4f9fe29caa7dbaad2ee"
 metafile = true
 
 [[files]]
