@@ -1,0 +1,8 @@
+{
+  "values": [
+    "build_tools:cloud_bucket",
+    "moonlight:placeable_item",
+    "origins:orb_of_origin",
+    "porting_lib:area_selector"
+  ]
+}

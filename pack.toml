@@ -1,12 +1,12 @@
 name = "Maddy Origins Test Pack Auto-Updated"
 author = "Maddy"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cb787b77ddd646593774c8892cbd7f62fdb62853250b039c69dc2e2a286dbe3d"
+hash = "c2cc3ca8ff72063c4663a653ac393181bc0181bda10c2a6104b8b71cffb2652f"
 
 [versions]
 fabric = "0.16.9"

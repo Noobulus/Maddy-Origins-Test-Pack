@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "haugh"
+  },
+  "filter": {
+    "block": [{
+        "namespace": "build_tools",
+        "path": "recipe/cloud_bucket"
+    },
+    {
+        "path": "advancement/recipe.*"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "advancement/nether/use_lodestone"
+    }]
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "id_substrings": {
+        "=": "wall"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "###",
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 6,
+            "remove": false
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_wall_to_block",
+            "pattern": "=",
+            "output_token": "#",
+            "output_count": 1,
+            "category": "building"
+        }
+    ]
+}

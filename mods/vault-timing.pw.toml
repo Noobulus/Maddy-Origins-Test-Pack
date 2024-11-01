@@ -1,6 +1,6 @@
 name = "Vault Timing"
 filename = "vault-timing-2.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rYXOEKpA/versions/lTzI5cqH/vault-timing-2.0.0.jar"

@@ -1,6 +1,6 @@
 name = "Item Components"
 filename = "item-components-1.1+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wOl8aLro/versions/BXT6xC81/item-components-1.1%2B1.21.jar"

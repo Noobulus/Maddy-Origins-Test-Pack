@@ -1,6 +1,6 @@
 name = "Banduty's DFWMI"
 filename = "bsdfwmi-1.0.15-1.20.5-1.21.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2d67N1yh/versions/SvpodAID/bsdfwmi-1.0.15-1.20.5-1.21.3.jar"

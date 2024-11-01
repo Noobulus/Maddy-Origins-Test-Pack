@@ -1,6 +1,6 @@
 name = "Adjusted Phantom Spawns"
 filename = "adjusted-phantom-spawns-1.0.1-1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MUVrIdXT/versions/VhBIJSOR/adjusted-phantom-spawns-1.0.1-1.21.jar"

@@ -1,6 +1,6 @@
 name = "Revamped Worldborder"
 filename = "rev_wb-fabric-1.21.1-2.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LyrtDCvH/versions/WlntH9Fd/rev_wb-fabric-1.21.1-2.0.0.jar"

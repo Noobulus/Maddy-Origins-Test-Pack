@@ -1,0 +1,209 @@
+{
+    "type": "origins:multiple",
+    "condition_boolean": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 1,
+        "hud_render": {
+            "should_render": false
+        }
+    },
+    "update_conditions_boolean": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:if_else",
+            "condition": {
+                "type": "origins:all_of",
+                "conditions": [
+                    {
+                        "type": "origins:sprinting"
+                    },
+                    {
+                        "type": "origins:fall_flying",
+                        "inverted": true
+                    },
+                    {
+                        "type": "origins:swimming",
+                        "inverted": true
+                    },
+                    {
+                        "type": "origins:riding",
+                        "inverted": true
+                    }
+                ]
+            },
+            "if_action": {
+                "type": "origins:change_resource",
+                "resource": "maddy_origins:glide_condition_boolean",
+                "change": 1,
+                "operation": "set"
+            },
+            "else_action": {
+                "type": "origins:change_resource",
+                "resource": "maddy_origins:glide_condition_boolean",
+                "change": 0,
+                "operation": "set"
+            }
+        },
+        "interval": 1
+    },
+    "reduced_fall_speed": {
+        "type": "origins:modify_falling",
+        "velocity": 0.005,
+        "take_fall_damage": false,
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:glide_condition_boolean",
+            "comparison": "!=",
+            "compare_to": 0
+        }
+    },
+    "reduced_gravity": {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:generic.gravity",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.5
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:glide_condition_boolean",
+            "comparison": "!=",
+            "compare_to": 0
+        }
+    },
+    "jump_height_compensation": {
+        "type": "origins:modify_jump",
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:glide_condition_boolean",
+            "comparison": "!=",
+            "compare_to": 0
+        },
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.3
+        }
+    },
+    "hunger_drain": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:exhaust",
+            "amount": 0.025
+        },
+        "interval": 1,
+        "condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:moving",
+                    "horizontally": false
+                },
+                {
+                    "type": "origins:resource",
+                    "resource": "maddy_origins:glide_condition_boolean",
+                    "comparison": "!=",
+                    "compare_to": 0
+                }
+            ]
+        }
+    },
+    "updraft_cooldown": {
+        "type": "origins:cooldown",
+        "cooldown": 60,
+        "hud_render": {
+            "should_render": false
+        }
+    },
+    "updraft_while_gliding": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:add_velocity",
+                    "y": 1
+                },
+                {
+                    "type": "origins:trigger_cooldown",
+                    "power": "maddy_origins:glide_updraft_cooldown"
+                },
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.avian.updraft"
+                }
+            ]
+        },
+        "interval": 1,
+        "condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:on_block",
+                    "inverted": true
+                },
+                {
+                    "type": "origins:resource",
+                    "resource": "maddy_origins:glide_updraft_cooldown",
+                    "comparison": "==",
+                    "compare_to": 0
+                },
+                {
+                    "type": "origins:any_of",
+                    "conditions": [
+                        {
+                            "type": "origins:resource",
+                            "resource": "maddy_origins:glide_condition_boolean",
+                            "comparison": "!=",
+                            "compare_to": 0
+                        },
+                        {
+                            "type": "origins:fall_flying"
+                        }
+                    ]
+                },
+                {
+                    "type": "origins:raycast",
+                    "distance": 12,
+                    "direction": {
+                        "y": -1
+                    },
+                    "block": true,
+                    "entity": false,
+                    "shape_type": "outline",
+                    "fluid_handling": "any",
+                    "block_condition": {
+                        "type": "origins:any_of",
+                        "conditions": [
+                            {
+                                "type": "origins:in_tag",
+                                "tag": "maddy_origins:updraft_blocks"
+                            },
+                            {
+                                "type": "origins:all_of",
+                                "conditions": [
+                                    {
+                                        "type": "origins:in_tag",
+                                        "tag": "maddy_origins:updraft_blocks_when_lit"
+                                    },
+                                    {
+                                        "type": "origins:block_state",
+                                        "property": "lit",
+                                        "value": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "origins:fluid",
+                                "fluid_condition": {
+                                    "type": "origins:in_tag",
+                                    "tag": "maddy_origins:updraft_fluids"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
