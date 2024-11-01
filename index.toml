@@ -369,10 +369,6 @@ file = "config/watut-common.toml"
 hash = "8b982a13bd0d8b4b557b1fcd3621a2bc362443b561679be23e4ecfa215581152"
 
 [[files]]
-file = "config/watut-item-arm-adjustments.json"
-hash = "3712c9bde81fbb2d90dc12c2b0c2ca8e30a2ca03890026c830d7934807f5f8fc"
-
-[[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
