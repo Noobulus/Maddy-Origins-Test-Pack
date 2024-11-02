@@ -1519,10 +1519,6 @@ file = "resources/datapack/required/maddy_origins/pack.mcmeta"
 hash = "46af43c6ee3256bb80925fbe0ca5a1c3926318938d73cf84509d2d17f3d4bb0f"
 
 [[files]]
-file = "resources/datapack/required/maddy_origins/pack.mcmeta.orig"
-hash = "90eb5beeb134f031eefceb6800983ba85cbf8ea2f59537d70ecd8c31e8476eef"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/service_bell.json"
 hash = "d65820b2df9eef0a21d232c8007bcc8b3dbdf635b20ef838fd5f5f9a545539c3"
 
