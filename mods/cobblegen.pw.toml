@@ -1,6 +1,6 @@
 name = "CobbleGen"
 filename = "cobblegen-5.3.12+1.21.1b48-BETA-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qRogT5Gy/versions/IfA1JIEc/cobblegen-5.3.12%2B1.21.1b48-BETA-fabric.jar"

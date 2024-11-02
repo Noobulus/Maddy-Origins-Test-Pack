@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/chicken-nerf.pw.toml"
-hash = "59c5735e0406ca01292a4e4d04ff0d76c087af3f9439a12c9b85c606ae4b561e"
+hash = "836c96f4790e102857a44c3cbdb8a245dec2e0c0a5c00581c32ef6c82d95f698"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "fba8da0edfcf5fe7c563a96a37e6921b28836d03193d096b8ab66749a79416bb"
+hash = "dbaebbad933cf00bd1127e9ca53c78e40e8a2a53fc556ef07c60d35e4ba75db0"
 metafile = true
 
 [[files]]
@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/selfcare-hive.pw.toml"
-hash = "6d96703ad3ce88138802fadf4cbec7130d6fd0a0eb4ba6f64f7e4dfea7bbe325"
+hash = "453c51620896b7aed180d37564a26e352d3f973fd3d941ed522ff1533e4b0cef"
 metafile = true
 
 [[files]]
