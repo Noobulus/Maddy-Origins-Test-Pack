@@ -9,8 +9,7 @@
                 "###"
             ],
             "output_token": "=",
-            "output_count": 6,
-            "remove": false
+            "output_count": 6
         }
     ],
     "result_family": [
@@ -19,6 +18,16 @@
             "pattern": "=",
             "output_token": "#",
             "output_count": 1,
+            "category": "building"
+        },
+	{
+            "id_suffix": "_vanilla_recipe_dammit",
+            "pattern": [
+                "###",
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 6,
             "category": "building"
         }
     ]

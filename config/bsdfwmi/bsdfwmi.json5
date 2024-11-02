@@ -1,4 +1,10 @@
 {
+	// Change Tick Rate for Overworld
+	"tickOverworld": true,
+	// Change Tick Rate for Nether
+	"tickNether": true,
+	// Change Tick Rate for End
+	"tickEnd": true,
 	// Change Tick Rate for Living Entities | Default: trueDoesn’t affect Player Entities
 	"getChangeTickRateLivingEntities": true,
 	// Change Tick Rate for Player's Vehicle Entities | Default: falseOnly when player is mounted
@@ -27,14 +33,18 @@
 	"maxSpawnerMobs": 6,
 	// Spawn Range around a Spawner Block | Default: 4 Blocks
 	"spawnerRange": 4,
-	// Monster SpawnGroup Max Capacity | Default: 70After Changes you need to Restart the Server
+	// Monster SpawnGroup Max Capacity | Default: 70
 	"monsterSpawnGroupCapacity": 70,
-	// Creature SpawnGroup Max Capacity | Default: 10After Changes you need to Restart the Server
+	// Creature SpawnGroup Max Capacity | Default: 10
 	"creatureSpawnGroupCapacity": 10,
-	// Ambient SpawnGroup Max Capacity | Default: 15After Changes you need to Restart the Server
+	// Ambient SpawnGroup Max Capacity | Default: 15
 	"ambientSpawnGroupCapacity": 15,
-	// Axolotls / Underground Water Creature / Water Creature SpawnGroup Max Capacity | Default: 5After Changes you need to Restart the Server
+	// Axolotls / Underground Water Creature / Water Creature SpawnGroup Max Capacity | Default: 5
 	"value5SpawnGroupCapacity": 5,
-	// Water Ambient SpawnGroup Max Capacity | Default: 20After Changes you need to Restart the Server
-	"waterAmbientSpawnGroupCapacity": 20
+	// Water Ambient SpawnGroup Max Capacity | Default: 20
+	"waterAmbientSpawnGroupCapacity": 20,
+	// Tick Time required for Mob Entities to Despawn | Default: 600
+	"mobDespawnTime": 20,
+	// Chance required for Mob Entities to Despawn | Default: 600
+	"mobDespawnChance": 20
 }

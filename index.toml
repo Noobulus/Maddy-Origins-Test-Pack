@@ -9,10 +9,6 @@ file = "config/HorseBuff.toml"
 hash = "ddbebe1a8833b3717eeec13dcb214d82b5c66abf5c943676141d5a11ee9085b2"
 
 [[files]]
-file = "config/MouseTweaks.cfg"
-hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
@@ -33,26 +29,6 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/accessories.json5"
-hash = "c7174c97566a831e354cbbb02943f9160165b1c0b8421a84d6060bb752feb473"
-
-[[files]]
-file = "config/adjusted-phantom-spawns.json"
-hash = "84f748834e810d28503cb94700b39251f21f22cda2fba1757bd415c56f91a69c"
-
-[[files]]
-file = "config/amendments-client.json"
-hash = "d5344e39a2a264a8055999a8c5eace064c3a0d1bd410920acafc689f38a09118"
-
-[[files]]
-file = "config/amendments-common.json"
-hash = "673d349277a45d047e30e57b2f8347ebb1d2a2cd6ed565187d97c5f40bf862c3"
-
-[[files]]
-file = "config/appleskin.json5"
-hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
-
-[[files]]
 file = "config/axesareweapons.json5"
 hash = "d504a8f3a482b6c0dd3dbc5ce93e25d0f1f0728fc03f359c2c2e4733ab782c59"
 
@@ -66,7 +42,7 @@ hash = "c6f9def940add188b7d8eb68c09da0591ada334aa55e4b24a046e08d8e768ea6"
 
 [[files]]
 file = "config/bsdfwmi/bsdfwmi.json5"
-hash = "bc5a4249b5cc223286552fcd17934ddcc1a1b9752488ec96bcef0b158e4ebb81"
+hash = "ba88fc49daa5d65fc3ca1b520fdb2fb16e6a50eee93a23ca5d2365ca2d4356e4"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -77,32 +53,28 @@ file = "config/carpet/default_carpet.conf"
 hash = "a9887024ab932bdb397edbed1c6fc1d886033212f201c96eb0dd78eaa96981de"
 
 [[files]]
-file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
-
-[[files]]
-file = "config/clientsort.json"
-hash = "ab26ce658550fe6d901624dfb6c86331ccf1c38e0e34eb4905fe6b736800f234"
-
-[[files]]
 file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
 [[files]]
 file = "config/colorful_books.json"
-hash = "1820e4c61663aac8281c62fe1e8a7ba092638c411fcd06346461e4991966ff9d"
+hash = "5bfd324691584e0d36c288e8ee16e6871bcc056a27a280fc26d7a18e1d79066d"
 
 [[files]]
-file = "config/componentviewer-config.json"
-hash = "2ba1c276c0a07935a0ce56127019236ac6ad563d47d7b0bb5197da92fe098a6b"
+file = "config/comforts-common.toml"
+hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "00097d03bb5a4016c869695ecce545a38391c7089d8bd9f80cd6feccbae9738e"
+
+[[files]]
+file = "config/connectiblechains.toml"
+hash = "0e90f3e1102154437f7caaafaf84b26b8538ab8e304a9a7f0ce3f13e7979533f"
 
 [[files]]
 file = "config/data-loader.json"
 hash = "f476c1f7ff31376f1d4e7564f1ae647ba988d84554d4c8f2bfd2dac52cd8c146"
-
-[[files]]
-file = "config/debugify-descriptions.json"
-hash = "05b769edcd89896aa8d0268712641279bff03ca5df0b9440dfe88024d04b5f9d"
 
 [[files]]
 file = "config/debugify.json"
@@ -113,36 +85,8 @@ file = "config/dramaticdoors-startup.toml"
 hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
 
 [[files]]
-file = "config/dummmmmmy-client.json"
-hash = "0d438def63397d10785ff877ff1997067e89736f80a0d4aa6a2809adb0f2b3fc"
-
-[[files]]
 file = "config/dummmmmmy-common.json"
 hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
-
-[[files]]
-file = "config/emi.css"
-hash = "00322380cbab26a1aa77640a70fb9e252389d355a909713a922e60ed53ed763a"
-
-[[files]]
-file = "config/enchdesc.json"
-hash = "dbee969646c0210c5b5a953b5d192bf04d828ae46fbfb49ab764f8d2aad827ad"
-
-[[files]]
-file = "config/entity_model_features.json"
-hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
-
-[[files]]
-file = "config/entity_texture_features.json"
-hash = "17178ec49b40bf1c72ff90fa433bc5e0a9f0c1a8f1f40701b3a4efc167e1a714"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "81b6afd82e5ab2ca45b5fc0f025ef5638b3d2df534dbc05bb7e399042706c961"
-
-[[files]]
-file = "config/etf_warnings.json"
-hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/everycomp-common.json"
@@ -150,15 +94,11 @@ hash = "76be96157bf939be7e76c05670568939db296daba1216dd80bd1a9a9feeeffd3"
 
 [[files]]
 file = "config/everycomp-entries.json"
-hash = "8bffd763b567567c557e882f683df1217e2e559bb9c5343a3d3e8aa48980b3e9"
+hash = "7ab8739b650a628fbe569df0d5bbf75661e9763816c25ac1722a6c6511d07c94"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "4895f9816a8cc42edf64101ce2919f5d81154e6ca2a52356e62afc3c11fd9d75"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "6ac361d22941d148fa222cbb925ca6712e0a494947c489f46816aadcfac2f82a"
+hash = "9ca4d692e8772bbedb2b6fb75910fb30b5761c8e24dc6e451af2ee45517c721d"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -189,48 +129,12 @@ file = "config/granulargamerules.json5"
 hash = "0bdeb65a9261ae426ee70ce754f2059303a29f62ef04053f9f1d2ae90d9473b0"
 
 [[files]]
-file = "config/guicompass.json5"
-hash = "cf2ef48d2e444c1686a980b7e195e7e9c1b073a727811e550c3b800251982288"
-
-[[files]]
 file = "config/harvest_with_ease-common.toml"
 hash = "34c46c268008a790442fc410aae585220d95f7dd4eb9eb0dfa5b6d9de9896596"
 
 [[files]]
 file = "config/indypets.json"
 hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
-
-[[files]]
-file = "config/iris.properties"
-hash = "ac57b4e85712bcf7bc9c952c71f36a93aa086e06da95e85e978ad57c225f584d"
-
-[[files]]
-file = "config/jade/hide-blocks.json"
-hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
-
-[[files]]
-file = "config/jade/jade.json"
-hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
-
-[[files]]
-file = "config/jade/plugins.json"
-hash = "8104a731228e89fed185705a6872a5336c2c8dc440a5075abe0dc70aa72c96d1"
-
-[[files]]
-file = "config/jade/server-plugin-overrides.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "c302f4304f9e843e2371a5ab849424ebdaed21f989ceb355f9e8f8421eec25d8"
-
-[[files]]
-file = "config/jade/usernamecache.json"
-hash = "fecda8574fe263c645901548db6766c777e927723a7b55b0e72c08437fb5cc25"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -249,18 +153,6 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
-file = "config/modelfix-client.json"
-hash = "b55936928438ab49ebc8086579cd2218faf14d777fd15ec6eee895dbcadb667d"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
-
-[[files]]
-file = "config/moonlight-client.json"
-hash = "4f661a3ceeff589d5489ae70ce0729b018c7d324bacf08293c614e32401bbbea"
-
-[[files]]
 file = "config/netherite_horse_armor.json5"
 hash = "85a68b058dc4988d208028d1b45f48f0487cd3bb9f97b1ad4290b5e1eeea0465"
 
@@ -277,12 +169,8 @@ file = "config/origins_server.json"
 hash = "ca1abedee71303d77e26a281dca7403fe8a5aeea6f706cd33833d5cbf86de2ef"
 
 [[files]]
-file = "config/overflowingbars-client.toml"
-hash = "763aac197ab52524700b6eff40821f2b0306d21b53f559eb197ba57b384b337c"
-
-[[files]]
 file = "config/pal.properties"
-hash = "dbfe27521da4e5a8bb300de72cae8ed9f32e2a2ed248fb75abc420d0e360b17f"
+hash = "9bd850707a07e9eb59ecbff6a86384ce7521784492431ba09de00fa950ebe81e"
 
 [[files]]
 file = "config/pehkui/config.json"
@@ -298,39 +186,15 @@ hash = "309e7779a516dfb2c88a5d15e5ab7abb3ce56331b2cff24f6bdd89ca721f6d60"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "e5774bb97942053339d0612b54985193d59e639f2f416e0769187c6812e3fa73"
-
-[[files]]
-file = "config/reacharound.json"
-hash = "ea97da7a52cfbbb715e51ec2c1b7e2937f9cd6b733fcfc697674ea89bdc04ec8"
-
-[[files]]
-file = "config/shulkerboxtooltip.json5"
-hash = "021b618bc5fbc5952ca5560ee191f6eab8bf661c5921dc7764ccb048326a08b3"
-
-[[files]]
-file = "config/simplefog.json"
-hash = "f57fad623a4d05f111b923cf126984f15830f8dc24b10d048002b079d47e9257"
+hash = "6d9c4c75b780ad9585cdd4e6a5ddd1a0098cf71e9715a6e8448196025204864d"
 
 [[files]]
 file = "config/sit!/server-config.json"
-hash = "9f03fa31b20d1563598404af029c1c9940555c1f3411813666cbb71669918759"
-
-[[files]]
-file = "config/sit!/sitting-config.json"
-hash = "b55362cecc906a72891f2b2df1181fc82651fdc01a1e5ccad541948134651a7e"
+hash = "87c4b4ace0221addc06b36542eec3535f44911a06b206ffc710ecc6fb7564ed9"
 
 [[files]]
 file = "config/smarterfarmers-common.json"
 hash = "7f05739c4fc5504fd0410f6d5b3518b83e3c50e911e84bb9e4b74c6f95e7c460"
-
-[[files]]
-file = "config/smoothskies.json"
-hash = "6d42e7f3443246e2102bd1a29cfe6a13c7733ca0d8a45b8a1bc65512d346a406"
-
-[[files]]
-file = "config/sootychimneys-client.toml"
-hash = "a59191cb60cdc9bf715f30e1d1ca21cc845c5930c89aae96a5f0873d01d87157"
 
 [[files]]
 file = "config/sootychimneys-common.toml"
@@ -338,15 +202,7 @@ hash = "c115485d6dfc5ef6da828b18b15ae63b2c68a7f0bc5e626cd399d19dda4e4232"
 
 [[files]]
 file = "config/spark/config.json"
-hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spark/tmp-client/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/spark/tmp/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -373,8 +229,144 @@ file = "config/watut-common.toml"
 hash = "8b982a13bd0d8b4b557b1fcd3621a2bc362443b561679be23e4ecfa215581152"
 
 [[files]]
+file = "config/watut-item-arm-adjustments.json"
+hash = "c3f6428a4b3f952eb3fcd29dc370f270b97dc720bf0806d1e660d11ff2327051"
+
+[[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "config/yosbr/config/MouseTweaks.cfg"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
+
+[[files]]
+file = "config/yosbr/config/accessories.json5"
+hash = "b87171cc746c2688d65c313ae05c0e145c9edc3863a809a86540398add8585f4"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/yosbr/config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/yosbr/config/clientsort.json"
+hash = "ab26ce658550fe6d901624dfb6c86331ccf1c38e0e34eb4905fe6b736800f234"
+
+[[files]]
+file = "config/yosbr/config/dummmmmmy-client.json"
+hash = "0d438def63397d10785ff877ff1997067e89736f80a0d4aa6a2809adb0f2b3fc"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "fbd8ead2a0a50eaf730585b63723419a733407fd9073ea7d6dd57494af33120a"
+
+[[files]]
+file = "config/yosbr/config/enchdesc.json"
+hash = "dbee969646c0210c5b5a953b5d192bf04d828ae46fbfb49ab764f8d2aad827ad"
+
+[[files]]
+file = "config/yosbr/config/entity_model_features.json"
+hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "17178ec49b40bf1c72ff90fa433bc5e0a9f0c1a8f1f40701b3a4efc167e1a714"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "81b6afd82e5ab2ca45b5fc0f025ef5638b3d2df534dbc05bb7e399042706c961"
+
+[[files]]
+file = "config/yosbr/config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "08bb984a442581b23aa5f3a7961825be50de6a3ea858d105cbe42fedb0276716"
+
+[[files]]
+file = "config/yosbr/config/guicompass.json5"
+hash = "cf2ef48d2e444c1686a980b7e195e7e9c1b073a727811e550c3b800251982288"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "04a6e284d6da6b566d1ee8974ae2f5072d25bdc08a83b65a9c0704473a535d3a"
+
+[[files]]
+file = "config/yosbr/config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/yosbr/config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/yosbr/config/jade/plugins.json"
+hash = "8104a731228e89fed185705a6872a5336c2c8dc440a5075abe0dc70aa72c96d1"
+
+[[files]]
+file = "config/yosbr/config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/yosbr/config/jade/sort-order.json"
+hash = "c302f4304f9e843e2371a5ab849424ebdaed21f989ceb355f9e8f8421eec25d8"
+
+[[files]]
+file = "config/yosbr/config/modelfix-client.json"
+hash = "b55936928438ab49ebc8086579cd2218faf14d777fd15ec6eee895dbcadb667d"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+
+[[files]]
+file = "config/yosbr/config/moonlight-client.json"
+hash = "4f661a3ceeff589d5489ae70ce0729b018c7d324bacf08293c614e32401bbbea"
+
+[[files]]
+file = "config/yosbr/config/overflowingbars-client.toml"
+hash = "763aac197ab52524700b6eff40821f2b0306d21b53f559eb197ba57b384b337c"
+
+[[files]]
+file = "config/yosbr/config/reacharound.json"
+hash = "ceab7e15384455070c35f175593eefe20bccbdee77c53325575525f4efab88c6"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "021b618bc5fbc5952ca5560ee191f6eab8bf661c5921dc7764ccb048326a08b3"
+
+[[files]]
+file = "config/yosbr/config/simplefog.json"
+hash = "f57fad623a4d05f111b923cf126984f15830f8dc24b10d048002b079d47e9257"
+
+[[files]]
+file = "config/yosbr/config/sit!/sitting-config.json"
+hash = "3c2510f21429a264b882a5ff2e9fa2637ecd5338bfada21415fe202dae57192d"
+
+[[files]]
+file = "config/yosbr/config/smoothskies.json"
+hash = "6d42e7f3443246e2102bd1a29cfe6a13c7733ca0d8a45b8a1bc65512d346a406"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
+
+[[files]]
+file = "config/yosbr/config/sootychimneys-client.toml"
+hash = "a59191cb60cdc9bf715f30e1d1ca21cc845c5930c89aae96a5f0873d01d87157"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
 
 [[files]]
 file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
@@ -472,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-nether-map.pw.toml"
-hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
+hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
 metafile = true
 
 [[files]]
@@ -497,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundle-scroll.pw.toml"
-hash = "1b014c7b27bb339004d40e7050665e1762882ae01ee754557f47d7bcdcc12a7e"
+hash = "5d217c8ce2812fbb2661ab2a5637b5846a03bf5073de68ca5c2f1333e84bf25e"
 metafile = true
 
 [[files]]
@@ -642,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7289a04452c422ed4b3d1d35b30b6a70fb397c0d53de00fb2d42b188cd6c7530"
+hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
 metafile = true
 
 [[files]]
@@ -771,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "903a222e6461d6db7c959e40a988bcc9f02f27e85add42ccf21e3d814c244ff5"
+hash = "6f48870f0d0b7cd6fc1ea6b2dc52331a0284b4f37c6d923d88d6ef2a4e00d043"
 metafile = true
 
 [[files]]
@@ -801,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e55bc1e8e1392060ccc7247bfb0be8b9e5a8b98c083251236e0cbcca08628a8c"
+hash = "0912bed476fb66375fef75fb120fa1469088af67290f7c6d8c19c2ce31c026a2"
 metafile = true
 
 [[files]]
@@ -1012,11 +1004,6 @@ metafile = true
 [[files]]
 file = "mods/vault-timing.pw.toml"
 hash = "9fd0441483c53a42f3bf2fd182bc026b87d16d30b3c178931933e58e192ca61f"
-metafile = true
-
-[[files]]
-file = "mods/way-much-faster-oxidize-reborn.pw.toml"
-hash = "b96fd1dca483078f5813b092c926aa4bd6b47d902428bb5cac12a036ad09b7e6"
 metafile = true
 
 [[files]]
@@ -1241,7 +1228,7 @@ hash = "09316b768527b7aa291ec5a9f908a1f40eb59906bedcb19aa479c02c175ebb8b"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/glide.json"
-hash = "f03efccce530bcb6df14f17cf41d989e44b65cb69c31cb60c2101093d82cd725"
+hash = "598824f5429438abdeadd001da7132aadf93571c8084f55a1d3a4747236d7146"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/granivorous.json"
@@ -1533,7 +1520,139 @@ hash = "be96b8d7de00148ddf11335aa801399dee00ff02a85f7bef28d4f93ac94c5525"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/pack.mcmeta"
-hash = "1f49e3821dc34c3319744097dd0d91dc2c262ad91813ef6fa860631ac5eff72a"
+hash = "90eb5beeb134f031eefceb6800983ba85cbf8ea2f59537d70ecd8c31e8476eef"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/service_bell.json"
+hash = "d65820b2df9eef0a21d232c8007bcc8b3dbdf635b20ef838fd5f5f9a545539c3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_acacia.json"
+hash = "f519a3656e4db68e50393747f3b138d2f8ad0fcec6f4ef7ab3f05300a2b5a221"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_birch.json"
+hash = "6feb677287a97f36d537fffe8aca153aa03a1f3f7722eea3d125552cd497c2c3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_cherry.json"
+hash = "fce33067a32bfb65a0c6cba4e1e800e69138fc9b11a54ad09d7da7d94b923b5c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_crimson.json"
+hash = "5ff615e9df0f8a87e497cddada9e866d8bb80a1349e4fbcaccf84b3f84c1725d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_dark_oak.json"
+hash = "7e995db2bc195aa0e1ce54dd5b305232b3dff8c91cbbcda376698c0cfde09fd3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_jungle.json"
+hash = "924a71b21852702d6a86800be95b0dbbb5a541937d125de920671c6be491a9eb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_mangrove.json"
+hash = "50aa744ac1fbea701d4ba375e8825ceb8d1faeb3c8e70a176ad4a19493c3c383"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_oak.json"
+hash = "aa4083d35a30fb356054dc9b61dac015563092fc51a6303916d8b207d16c36af"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_spruce.json"
+hash = "f050957fe0ba54978c648002dbb9acf6c0d80c81554a183caaaff1c3a8948da6"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_warped.json"
+hash = "a0b76ee4043ee910201ad90837d5aaa5983af7842d8ae681887162709c2ac258"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_acacia.json"
+hash = "d9f7eb96ac3226f6097f39d0a7122353821f48c7a7c0dfbf3ee590f86c25cd28"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_birch.json"
+hash = "2ea498507109b7da7f5a48f5421e07d93645b1c77c599c6863fc30f0731e651e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_cherry.json"
+hash = "efff358d3251478be95f6dc712f141b1183ae6773d321256d19042e1b41c133c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_crimson.json"
+hash = "ba36955fa59141966c0bdb3d82696769e7a3ac0db2865fd2db416d729de97a02"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_dark_oak.json"
+hash = "6d1c7012e2da64e9872a9853e9d3f0fbb99d652b682b94611b0f4e7fbd30acd9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_jungle.json"
+hash = "bf673d480693f801383c6382f21e97d445ffa9a65e962ec5b4f4da2e71406410"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_mangrove.json"
+hash = "0c2ca0375e8601ee2ad2007e8f4e4af47787e6c31485accfd7b56e7d61936e65"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_oak.json"
+hash = "a18f17347ad545d61c13695ad0644dcca7934813fd01af21c0bbb87deafeb28e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_spruce.json"
+hash = "221ee8b459e5aaad2f819f04ecf18c7a80717babb3a40f4bf504972a79d8afa9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_warped.json"
+hash = "9ad13ec0230bf99ec4630a633e9a03d44386b7f6565a81b95c7f67fcd99834b1"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_acacia.json"
+hash = "90b1c3058c0ed4cbc58558af4096ed5d1fa8039e22ac61bdeea175e90a014c68"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_birch.json"
+hash = "2b1ca62b694491fe981f885c0f6f247306aeee1cccab2bb9a6af941a83f96fdb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_cherry.json"
+hash = "469d1b1756153bd2ea8bf75fa4825ad225181d2a94e780b64d101535ff4b20dd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_crimson.json"
+hash = "aa56d8be31398e9055445e7940b4e33968408d35c08e8861b0036386e3b591fe"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_dark_oak.json"
+hash = "7c8ae2cb63f54a36f3efc30ce59fd3367319ab2d0ebe6ff35463f3f140887cf8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_jungle.json"
+hash = "b1c8a4aaba68c6c4044383419f004a36ab53b7c21ca7c9a747acc402cfaab68e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_mangrove.json"
+hash = "3fcfcc0e9356ca100db7bbc15464cfc354d1c98f1f11fc77b39b007f0b12d0bf"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_oak.json"
+hash = "46377e423c53c2c2e21f85ed9e0fcdcd0e47e967db32ef462c5674da4b60e5c4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_spruce.json"
+hash = "1932a6bd500cdff34b21d3f1e6b387a33a98a3a23486389f52264a601326bbdb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_warped.json"
+hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/breakerplacer/recipe/breaker.json"
+hash = "fe91df5fe1c5e76b2887f4e6a54328e534e72224ce8dc8c5483252f0e0ae01bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/breakerplacer/recipe/placer.json"
+hash = "38b4b4f25507c578db1e1089ec70d39f443d95faa06b91d86d70f621d96b589a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
@@ -1840,6 +1959,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "cc6172437e29a191af9a328410c9474ccb1c1a7aa841fced006d4a596aaa807a"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_woods_resist_fire.json"
+hash = "09d79c637f3ac12aab2653613f15a237db5e5d90ec7d48ff3659bb6353896aac"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/netherite.json"
 hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 
@@ -1886,6 +2009,110 @@ hash = "133ff921431077f15647bf49fd30e9c6eea4c82bebf60ca4e7cf9addd0ec2645"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/dirt.json"
 hash = "e86f2d2ce6edfcaa0bc3e5cd96629101179dc30f6921ce9aa7f4898c4bf6cda0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_bench.json"
+hash = "f4e2c2e96725cd8f3e4b405e5bd029093c794bced773d2c76f4a95ca4af7409c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_cabinet.json"
+hash = "b3e9a522cb7fba0692738d45b69e7ec10e01a2e5ca443d85eeec7337709f7a93"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_chair.json"
+hash = "82412a1722a79b998bafe9a4288d2c1da6d56dcbda2d9e4a50081282d803b2bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_drawer.json"
+hash = "456c0daa9b37eceea6492bf0d42bb9a2b9287750de6e6fffa256120c7f2b029d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_flower_box.json"
+hash = "a62a8419284c67568000fd564da48a05102b53df8ee0ed51e75c1b3048271615"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_shelf.json"
+hash = "1514fa9b9951afa9864bf69af78ed3a250761e3ee70168a72a3316f6006e3c1b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_shutter.json"
+hash = "0bfef851da056863481d27f4d43039a8adf403ccaa85ccff23895a44219015bd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_table.json"
+hash = "dc3ca507e13796133f7672bd31aa82daae1ed140f3f5484425b3e32f3eff8d20"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/short_cork_door.json"
+hash = "173c047c27a89039728ca0807ae8e33ae04249febe50dc2bf42e01e42d760044"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_bench.json"
+hash = "ed249918939d3951aa72f5c2cbfb1d4c26bcfcfae3c962517312de9deb63e16b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_cabinet.json"
+hash = "381cfb24b3e0384f7b8b11fb86587afb2af9527a8bbb4f03aae381a077ce0468"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_chair.json"
+hash = "9a06eb2f7db0caf156e57c1ac080c173a89564ff90859c68369e890fb159263a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_drawer.json"
+hash = "9f0cc68a24dd3f6fc08c3f6f0a5480feec3d98772e3bbd113c509f42d3d3abbf"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_flower_box.json"
+hash = "d0243f44fa462e16c03b2e7f196ee23571f82ca7ddf3e7f9944a47d1dabcfcd8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_shelf.json"
+hash = "18ac4aa861f01dcb18c4506f8ba76efae4ddc478b271131ecf78fc001f1a3f65"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_shutter.json"
+hash = "49a3b8bc5dd8ee2081ae2e653633bb3fc27f30c1ab90652cd9697e66ad052087"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_table.json"
+hash = "451173da08593c52e1abe4a667e32131d190f9a6db40f08a4f9df1bc2181b389"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_cork_door.json"
+hash = "c98840bf28a79794a3b54c60f94b551f98bd3f65e4b60be7954993e9c7f8fc16"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_bench.json"
+hash = "0baec09afa9df510a59910bb6e13f952f91707f8f591577dd0f5917d5a90b604"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_cabinet.json"
+hash = "2cc747bfadd055502e904a0543f5e9e827274882a7ff560ae2af9163ad24b97e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_chair.json"
+hash = "b284b27d195d883c7463dde8dc5e815c438fff3d86d11d71a020ee2864fe2b03"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_drawer.json"
+hash = "ae6a38f76cb474b75d9f2029269e3b6fc91608bf74d79f59cde3057e4034e0b2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_flower_box.json"
+hash = "db9252d7f9cbc292209a59ac0eb5306a98bc095095f1944cf6b325a866b94c8b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_shelf.json"
+hash = "93806ce52d2949c7c7490667b798c42fa5f4b03e83d996b878d7a22cd25cc27a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_shutter.json"
+hash = "716b3cac453a634a8cdf494d82ad803a3df4b0f2f4adb95fc83485e39703d71b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_table.json"
+hash = "61ccbdfb2a91ba95b312cec571f89060b99761591efb67997ed7ae5a4d1df7f5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fire_coral_block.json"
@@ -1936,6 +2163,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "fe192c07d758e74cee4ccdb65281ced6c6149edfd6d66f74bd0611acc72efa15"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/another_furniture_tweaks.json"
+hash = "777861ea67c926f40a58494cc60f43a3c4df1397e8991fada198e1755d63f8b5"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/banner_encheapening.json"
 hash = "fc222eae0b48786c4a7ac442cf2bb48daa6e998e3910a122504c5ec8d9de7cdd"
 
@@ -1950,6 +2181,10 @@ hash = "c02c06cabaedba508e23a09b05c2a4175640752881ae02d26dc5d36a7cc030ba"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/door_and_trapdoor_buff.json"
 hash = "c01b88f63ef4b282b2d63e4f8eb5962f46ad68e6d8df03511f2c8cc92390d85a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/eight_blocks.json"
+hash = "395ef443f4a89cde5f5fb4bbfcec44691cfa9fe77bc8589f5fb7bd0ba8c3d3e4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/fence_encheapening.json"
@@ -1973,7 +2208,7 @@ hash = "fc50cf8da718a12a0c1eb52f5f79e5edf5125107141b7f22f461674c86aabf22"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/wall_uncrafting.json"
-hash = "1f2384b0afe1f96492c8f3475d5dc80043ac519b0f46d3128bb425528c4a69c7"
+hash = "6680a4a63355e511b16bd166b4fe65e09289b44ffd7231eb88dba01b6d290ea4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/whatever_go_my_button.json"
@@ -1989,7 +2224,7 @@ hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "0788b95c80514adb81b23c5ee023818c88aa5e0c9bdd3cc2f66bf400137ce861"
+hash = "ceaf03bfd01222bf9758aaf47169a7829fd86d1952b2ab583fd63ce99e848193"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"

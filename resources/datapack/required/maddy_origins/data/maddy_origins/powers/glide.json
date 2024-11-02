@@ -110,7 +110,7 @@
     },
     "updraft_cooldown": {
         "type": "origins:cooldown",
-        "cooldown": 60,
+        "cooldown": 80,
         "hud_render": {
             "should_render": false
         }
@@ -122,7 +122,8 @@
             "actions": [
                 {
                     "type": "origins:add_velocity",
-                    "y": 1
+                    "y": 1,
+		    "server": false
                 },
                 {
                     "type": "origins:trigger_cooldown",
