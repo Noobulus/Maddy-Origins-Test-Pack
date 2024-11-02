@@ -221,10 +221,6 @@ file = "config/vanityslots-server.toml"
 hash = "9809c24f7f50079843c63f6b1e54dc5e93611efe97c99d8d53e1685b4a1d9941"
 
 [[files]]
-file = "config/watut-client.toml"
-hash = "f4c9cf297940147112dbbc65c6ae351f92829f8889fa0c91d14019431eeb6206"
-
-[[files]]
 file = "config/watut-common.toml"
 hash = "8b982a13bd0d8b4b557b1fcd3621a2bc362443b561679be23e4ecfa215581152"
 
@@ -359,6 +355,10 @@ hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
 [[files]]
 file = "config/yosbr/config/sootychimneys-client.toml"
 hash = "a59191cb60cdc9bf715f30e1d1ca21cc845c5930c89aae96a5f0873d01d87157"
+
+[[files]]
+file = "config/yosbr/config/watut-client.toml"
+hash = "f4c9cf297940147112dbbc65c6ae351f92829f8889fa0c91d14019431eeb6206"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0912bed476fb66375fef75fb120fa1469088af67290f7c6d8c19c2ce31c026a2"
+hash = "106558a23ad4a3535f2cdf684619674d0413d928eeba032a9b95889cd5967351"
 metafile = true
 
 [[files]]
@@ -1248,7 +1248,7 @@ hash = "7c3637cad9da95d5731a0a8fdde76a894baf35fa560f83bc7314bbfc1412b49a"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/ill_fitting.json"
-hash = "6ed3883f00c52c4d643b42d7f71263ccf12fcf902cc25f5793ea7b19c62801a4"
+hash = "a2adbc3459b7cf627549d630e9d5b9137e23ad1dfe1c662cc332ca6dda5118e9"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/infernal_secrets.json"
@@ -1517,6 +1517,10 @@ hash = "be96b8d7de00148ddf11335aa801399dee00ff02a85f7bef28d4f93ac94c5525"
 [[files]]
 file = "resources/datapack/required/maddy_origins/pack.mcmeta"
 hash = "46af43c6ee3256bb80925fbe0ca5a1c3926318938d73cf84509d2d17f3d4bb0f"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/pack.mcmeta.orig"
+hash = "90eb5beeb134f031eefceb6800983ba85cbf8ea2f59537d70ecd8c31e8476eef"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/service_bell.json"
@@ -1931,6 +1935,46 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "0bab128275057ce506cf4062bffac2d33434c3997bc11f974ed6a822751bc70f"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/armadillo_food.json"
+hash = "dc26544cbfcaef9965b700f12b8baf7919a292bc23df525dbff7b804bd6b1f02"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/axolotl_food.json"
+hash = "87261475805040bf6dc4e6c1fa9d21167f4e57063a9681c20f3ec07791201884"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/bee_food.json"
+hash = "169309ce043a76a94a8f60acf3e4e8062d4cedfd461049948391be8ac6e76aab"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/cow_food.json"
+hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/frog_food.json"
+hash = "c04e5cb8125d78e5acc0f8d29a53a69a81a23b388fc1ea599752e5767641cc8c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/goat_food.json"
+hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/pig_food.json"
+hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/rabbit_food.json"
+hash = "afc0453e22858eb209e6667e538263abf1ca3d2d8f687b0ee0c1f67df651057a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sheep_food.json"
+hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sniffer_food.json"
+hash = "9b6b236408d3d3b031d40d4276b730cd6f7f6456cee202131e2f50711361ba52"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins/enchantment/water_protection.json"
 hash = "a97a0dbac63e0566555aeadb30fda668ee9eac5efa4763f2b80f8d8c1c2f4179"
 
@@ -2215,6 +2259,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
+hash = "e8bc3916e04afad914dd6a712f0537917029e94a27fffe5abe26a0241b1395ae"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/veggie_food_crates.json"
+hash = "ec8779b9d3c4ba9eeb4abc81f2f9398bfb7dbf5cd488e047ee0531ae32c8440d"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/recipe/soul_candle.json"
 hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
 
@@ -2480,7 +2532,7 @@ hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "334e2a7b08139d8ec55a81bc99bb1da687cfe642c3f831cb60d2e51bdf6c4c93"
+hash = "ee8976deb0fe89242388d23c99b345ab359f82f51aea496d55602ddb0a1b116a"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
