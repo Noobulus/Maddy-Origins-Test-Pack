@@ -514,6 +514,11 @@ hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
 metafile = true
 
 [[files]]
+file = "mods/chicken-nerf.pw.toml"
+hash = "59c5735e0406ca01292a4e4d04ff0d76c087af3f9439a12c9b85c606ae4b561e"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
 metafile = true
@@ -536,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/cobblegen.pw.toml"
+hash = "fba8da0edfcf5fe7c563a96a37e6921b28836d03193d096b8ab66749a79416bb"
 metafile = true
 
 [[files]]
@@ -734,8 +744,8 @@ hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
 
 [[files]]
-file = "mods/ironrod_1.21.1-1.0.0.jar"
-hash = "2eb67e1069793360e48d6831feb418bb6e795661031834129952f1bb66cc8e5c"
+file = "mods/ironrod_1.21.1-1.0.2.jar"
+hash = "1186dacf0c56d545214c107a8f86c64c9bb4786397864cc224cffce0f56cad46"
 
 [[files]]
 file = "mods/item-components.pw.toml"
@@ -789,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "106558a23ad4a3535f2cdf684619674d0413d928eeba032a9b95889cd5967351"
+hash = "715b767717559bf4558c7ff0905274f278e339c04a5fecf3648d41f447efacfa"
 metafile = true
 
 [[files]]
@@ -910,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
+file = "mods/selfcare-hive.pw.toml"
+hash = "6d96703ad3ce88138802fadf4cbec7130d6fd0a0eb4ba6f64f7e4dfea7bbe325"
 metafile = true
 
 [[files]]
