@@ -82,7 +82,7 @@
         "type": "origins:modify_crafting",
         "item_action": {
             "type": "origins:modify",
-            "modifier": "maddy_origins:avaricious_artisan_helmet_buff"
+            "modifier": "maddy_origins:avaricious_artisan_golden_helmet_buff"
         },
         "item_condition": {
             "type": "origins:ingredient",
@@ -95,7 +95,7 @@
         "type": "origins:modify_crafting",
         "item_action": {
             "type": "origins:modify",
-            "modifier": "maddy_origins:avaricious_artisan_chestplate_buff"
+            "modifier": "maddy_origins:avaricious_artisan_golden_chestplate_buff"
         },
         "item_condition": {
             "type": "origins:ingredient",
@@ -108,7 +108,7 @@
         "type": "origins:modify_crafting",
         "item_action": {
             "type": "origins:modify",
-            "modifier": "maddy_origins:avaricious_artisan_leggings_buff"
+            "modifier": "maddy_origins:avaricious_artisan_golden_leggings_buff"
         },
         "item_condition": {
             "type": "origins:ingredient",
@@ -121,12 +121,64 @@
         "type": "origins:modify_crafting",
         "item_action": {
             "type": "origins:modify",
-            "modifier": "maddy_origins:avaricious_artisan_boots_buff"
+            "modifier": "maddy_origins:avaricious_artisan_golden_boots_buff"
         },
         "item_condition": {
             "type": "origins:ingredient",
             "ingredient": {
                 "item": "minecraft:golden_boots"
+            }
+        }
+    },
+    "buff_leather_helmet": {
+        "type": "origins:modify_crafting",
+        "item_action": {
+            "type": "origins:modify",
+            "modifier": "maddy_origins:avaricious_artisan_leather_helmet_buff"
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:leather_helmet"
+            }
+        }
+    },
+    "buff_leather_chestplate": {
+        "type": "origins:modify_crafting",
+        "item_action": {
+            "type": "origins:modify",
+            "modifier": "maddy_origins:avaricious_artisan_leather_chestplate_buff"
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:leather_chestplate"
+            }
+        }
+    },
+    "buff_leather_leggings": {
+        "type": "origins:modify_crafting",
+        "item_action": {
+            "type": "origins:modify",
+            "modifier": "maddy_origins:avaricious_artisan_leather_leggings_buff"
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:leather_leggings"
+            }
+        }
+    },
+    "buff_leather_boots": {
+        "type": "origins:modify_crafting",
+        "item_action": {
+            "type": "origins:modify",
+            "modifier": "maddy_origins:avaricious_artisan_leather_boots_buff"
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:leather_boots"
             }
         }
     },

@@ -12,7 +12,6 @@
         "H": "shutter",
         "T": "tall_stool",
         "L": "lamp",
-        "U": "shelf",
         "V": "table",
         "F": "flower_box",
         "E": "curtain",
@@ -71,14 +70,6 @@
                 " | "
             ],
             "output_token": "L",
-            "output_count": 3
-        },
-        {
-            "pattern": [
-                "###",
-                "|  "
-            ],
-            "output_token": "U",
             "output_count": 3
         },
         {
@@ -165,7 +156,7 @@
                 "==="
             ],
             "output_token": "H",
-            "output_count": 6,
+            "output_count": 3,
             "category": "misc"
         },
         {
@@ -188,16 +179,6 @@
             ],
             "output_token": "L",
             "output_count": 1,
-            "category": "misc"
-        },
-        {
-            "id_suffix": "_tweaked_shelves",
-            "pattern": [
-                "###",
-                "|  "
-            ],
-            "output_token": "U",
-            "output_count": 4,
             "category": "misc"
         },
         {

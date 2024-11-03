@@ -6,7 +6,7 @@
   "filter": {
     "block": [{
         "namespace": "build_tools",
-        "path": "recipe/cloud_bucket"
+        "path": "recipe/cloud_bucket.json"
     },
     {
         "path": "advancement/recipe.*"
@@ -26,6 +26,34 @@
     {
         "namespace": "betterfurniture",
         "path": "recipe/table.*"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/lead.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/packed_mud.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/painting.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/bread.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/cutting/.*_trapdoor.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/cutting/.*_sign.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/cutting/.*_door.json"
     }]
   }
 }

@@ -30,7 +30,7 @@
     "origin.maddy_origins.amphibian.description": "While not strictly limited to water, Amphibians excel in it. They don't take falls on land very well, though.",
     
     "power.maddy_origins.ill_fitting.name": "Ill-Fitting",
-    "power.maddy_origins.ill_fitting.description": "Your animal-like features prevent armor from fitting properly, resulting in noticeably less protection.",
+    "power.maddy_origins.ill_fitting.description": "Your animal-like features prevent armor from fitting properly, resulting in drastically less protection.",
     
     "power.maddy_origins.durable.name": "Durable",
 	"power.maddy_origins.durable.description": "Falls are harmless and you are jostled less by enemy strikes.",
@@ -60,10 +60,10 @@
 	"power.maddy_origins.inviolable.description": "While at or above 8 hearts, you take a heart less damage from combat.",
 	
     "power.maddy_origins.glide.name": "Glide",
-	"power.maddy_origins.glide.description": "Your lightweight frame and vestigial wings allow you to glide while sprinting. You can also occasionally catch updrafts from warm blocks up to 12 blocks below you.",
+	"power.maddy_origins.glide.description": "Your lightweight frame and vestigial wings allow you to glide while sprinting.",
 	
-    "power.maddy_origins.aerodynamic.name": "Aerodynamic",
-	"power.maddy_origins.aerodynamic.description": "You can move faster in the air than your grounded brethren.",
+    "power.maddy_origins.updraft.name": "Updraft",
+	"power.maddy_origins.updraft.description": "While gliding, you can occasionally catch updrafts from warm blocks up to 12 blocks below you.",
 	
     "power.maddy_origins.granivorous.name": "Granivorous",
 	"power.maddy_origins.granivorous.description": "You love fruit and grain and gain more nutrition from them than others would. You can also eat seeds! Unfortunately, everything else doesn't sate you as much. Chocolate is probably not a good idea either...",
@@ -165,7 +165,7 @@
 	"power.maddy_origins.grave_goods.description": "You start with a Leather Cap and Wooden Pickaxe. You were originally buried with these.",
 	
     "power.maddy_origins.avaricious_artisan.name": "Avaricious Artisan",
-	"power.maddy_origins.avaricious_artisan.description": "You've learned from the best and know how to make golden equipment really shine. You can also fireproof items by applying Magma Cream to them.",
+	"power.maddy_origins.avaricious_artisan.description": "You've learned from the best and know how to make golden equipment and leather clothing really shine. You can also fireproof items by applying Magma Cream to them.",
 	
     "power.maddy_origins.infernal_secrets.name": "Infernal Secrets",
 	"power.maddy_origins.infernal_secrets.description": "You start in the Nether, but can always mine Obsidian and Netherite - three times faster than usual, no less.",
@@ -204,6 +204,11 @@
 	"name.maddy_origins:artisan_golden_chestplate": "Artisan Golden Chestplate",
 	"name.maddy_origins:artisan_golden_leggings": "Artisan Golden Leggings",
 	"name.maddy_origins:artisan_golden_boots": "Artisan Golden Boots",
+	
+	"name.maddy_origins:artisan_leather_helmet": "Artisan Leather Hat",
+	"name.maddy_origins:artisan_leather_chestplate": "Artisan Leather Tunic",
+	"name.maddy_origins:artisan_leather_leggings": "Artisan Leather Pants",
+	"name.maddy_origins:artisan_leather_boots": "Artisan Leather Boots",
 	
 	"tooltip.maddy_origins:granivore_warning": "This probably isn't good for you...",
 	
