@@ -875,9 +875,8 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
-file = "mods/pigs-have-litters.pw.toml"
-hash = "590df3fec5736197464f6890f4c48f455fbac13d2d9a0af0038a1279df2abdaa"
-metafile = true
+file = "mods/pigs-have-litters-1.1.1+1.21.1-metadatatweaked.jar"
+hash = "94d51e592a8a5a6271609365b2c1f2cdaf38866ed6fc5b85f149e4487e0b7364"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
