@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-disabler.pw.toml"
-hash = "d25a1730602ff5253821cce6d3903677000aed8be17272ffd717c5d1339c40e8"
+hash = "4857787aa341bf6451c83305b6c0851d4a8f48860686d61a4c4ec3239e659826"
 metafile = true
 
 [[files]]
