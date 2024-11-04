@@ -202,7 +202,7 @@ hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "6d9c4c75b780ad9585cdd4e6a5ddd1a0098cf71e9715a6e8448196025204864d"
+hash = "c6c1d2d117b0b20f1ab96f7d7505e65a1697915737014bafae989dbad6f6cbac"
 
 [[files]]
 file = "config/sit!/server-config.json"
