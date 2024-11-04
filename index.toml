@@ -906,6 +906,11 @@ hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "40e562a5740782fcade12bf5f370da4a1b01692868946eafb0252237e73c9a90"
+metafile = true
+
+[[files]]
 file = "mods/preferred-gamerules.pw.toml"
 hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
 metafile = true
