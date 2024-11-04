@@ -65,10 +65,6 @@ file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
 [[files]]
-file = "config/colorful_books.json"
-hash = "5bfd324691584e0d36c288e8ee16e6871bcc056a27a280fc26d7a18e1d79066d"
-
-[[files]]
 file = "config/comforts-common.toml"
 hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
 
@@ -95,6 +91,10 @@ hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
 [[files]]
 file = "config/dummmmmmy-common.json"
 hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
+
+[[files]]
+file = "config/enchantmentdisabler-config.json5"
+hash = "0eed1f159b7a9df3da43afd9a9226669f17ae09b791bda669fe4f7b45f53da65"
 
 [[files]]
 file = "config/everycomp-common.json"
@@ -198,7 +198,7 @@ hash = "87154eb96a740b4dcac84beb61488f6950ed87a49eaa66c2302a8f7bb4cd1c87"
 
 [[files]]
 file = "config/power_config.json5"
-hash = "309e7779a516dfb2c88a5d15e5ab7abb3ce56331b2cff24f6bdd89ca721f6d60"
+hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
@@ -219,6 +219,10 @@ hash = "c115485d6dfc5ef6da828b18b15ae63b2c68a7f0bc5e626cd399d19dda4e4232"
 [[files]]
 file = "config/spark/config.json"
 hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
+
+[[files]]
+file = "config/stackdeobf.json"
+hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -318,7 +322,7 @@ hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
 file = "config/yosbr/config/jade/plugins.json"
-hash = "8104a731228e89fed185705a6872a5336c2c8dc440a5075abe0dc70aa72c96d1"
+hash = "ff2d7180416b5f4ba8b8505103ac6487ecd0ac7ba94e0e09b1961a5f14797a34"
 
 [[files]]
 file = "config/yosbr/config/jade/server-plugin-overrides.json"
@@ -582,11 +586,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
-metafile = true
-
-[[files]]
-file = "mods/colorful-books.pw.toml"
-hash = "154da3a0b0562de3686d73ae5d3e550881416bc209574f30a773129a594e8336"
 metafile = true
 
 [[files]]
@@ -935,6 +934,11 @@ metafile = true
 [[files]]
 file = "mods/reacharound.pw.toml"
 hash = "f5aa8a4410d84e6ab5dd3797e2b900b26f669bd801ace7aab19ed987c4a05001"
+metafile = true
+
+[[files]]
+file = "mods/realms-button-remover.pw.toml"
+hash = "2bc72b153e29b9da415a3649b859659c31cf6840cadd34ccf5dfc011be79d372"
 metafile = true
 
 [[files]]
@@ -2046,6 +2050,10 @@ hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sniffer_food.json"
 hash = "9b6b236408d3d3b031d40d4276b730cd6f7f6456cee202131e2f50711361ba52"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins/enchantment/water_protection.json"
+hash = "a97a0dbac63e0566555aeadb30fda668ee9eac5efa4763f2b80f8d8c1c2f4179"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
