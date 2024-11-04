@@ -1,7 +1,9 @@
 {
     "common_ingredients": {
         "|": "stick",
-        "&": "dirt"
+        "&": "dirt",
+        "!": "torch",
+        "?": "composter"
     },
     "id_substrings": {
         "~": "wool",
@@ -22,6 +24,16 @@
     "source_family": [
         {
             "pattern": [
+                "- -",
+                "- -",
+                "---"
+            ],
+            "output_token": "?",
+            "output_count": 1,
+            "remove": false
+        },
+        {
+            "pattern": [
                 "# ",
                 "##",
                 "||"
@@ -40,7 +52,7 @@
         },
         {
             "pattern": [
-                "#~#",
+                "@~@",
                 "| |"
             ],
             "output_token": "S",
@@ -57,7 +69,7 @@
         },
         {
             "pattern": [
-                "#~#",
+                "@~@",
                 "|||",
                 "| |"
             ],
@@ -152,7 +164,7 @@
             "id_suffix": "_tweaked_stools",
             "pattern": [
                 "~",
-                "#"
+                "-"
             ],
             "output_token": "S",
             "output_count": 1,
@@ -172,7 +184,7 @@
             "id_suffix": "_tweaked_tall_stools",
             "pattern": [
                 "~",
-                "#",
+                "@",
                 "|"
             ],
             "output_token": "T",
@@ -184,7 +196,7 @@
             "pattern": [
                 "~",
                 "!",
-                "|"
+                "@"
             ],
             "output_token": "L",
             "output_count": 1,

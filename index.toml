@@ -788,8 +788,8 @@ hash = "0382e17bb9cfb6e3f111ddcc69438cfa45dfa43d367651f736ab0e2a065f69c6"
 metafile = true
 
 [[files]]
-file = "mods/ironrod_1.21.1-1.0.2.jar"
-hash = "1186dacf0c56d545214c107a8f86c64c9bb4786397864cc224cffce0f56cad46"
+file = "mods/ironrod_1.21.1-1.0.3.jar"
+hash = "ee669e6966575bc3f0c35deb53672286f73c23cd439bab14108f4cabf0031efc"
 
 [[files]]
 file = "mods/item-components.pw.toml"
@@ -1739,6 +1739,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/
 hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/melon.json"
+hash = "2be2a4e413719e54981e6ee6afd8f179548d8d5de855a91e11ffd1255f9b3a81"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/hanging_canvas_sign.json"
 hash = "77457e573a17cea89ea8a17664a21192310a9dc683613ab681c66c86eb6e9c6d"
 
@@ -1767,6 +1771,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_
 hash = "0ac9850b8c685ed935d3f6fe4cf5703bab21c7a075296b4a6e2de0d73f4cb3d6"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/melon.json"
+hash = "de94b2564d215ee14b8b2e1b9e2a81ea4233ed0d15b068daa2554e420943790d"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/nether_quartz_ore.json"
 hash = "bcd44f6876e63d906436ecf46d4969a3ba106132a672051d1da4457c7093cc9b"
 
@@ -1789,6 +1797,10 @@ hash = "0df4e76be1b6b9c4d139e486bbcffbf026d914fa8abbe105328ce80527f482b4"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/arrow.json"
 hash = "117cfbb34c3c2afaffd7967bcc00f85b10855963a91dbdb7beeb5d91cbbb77ab"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/bamboo_block.json"
+hash = "76115717f49b2c85d5b6df791cbf9a7133b0c70c424a0e92300090d7cb6056d2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/beehive.json"
@@ -1859,6 +1871,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "7caf8af23f8ca6c223af492c178196afaf40e2af56ba99f5363d8af68563dcc8"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/glistering_melon_slice.json"
+hash = "b7ccccacdba6abd0dbada9b4faac4d7e45f4f3c7818583fca3b278beb7545e98"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/gold_nugget_from_blasting.json"
 hash = "8d62e20695a33d2ec539cffb624b7b1a5c4a4f70d4bf98ba79c43fd27dbbf278"
 
@@ -1868,7 +1884,7 @@ hash = "a250188e0bfbc4584634a0fb1811150ed5826a59b2486efd48eae8065fe0296b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/golden_carrot.json"
-hash = "6aa1d03959097716fa2d757833522e12ba922297ff411d7896254cb60eb86321"
+hash = "a25c32f88d3f31aa0a142b33169be0a2b92cc9a32e962a60436ac6271d35f695"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/green_dye.json"
@@ -1933,6 +1949,14 @@ hash = "8d2a5bff5b2c98239ab577002990c1581a99be305b5db5bd23059a5ab1b30235"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/map.json"
 hash = "cfcbc10d99c13ef1564171c962e8b021213301ac81495fbd1ec95bae71bd6e1d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/melon.json"
+hash = "7441befafa760fd01ada40e946a65bb324854ac3e615d926a4f04ae781fa3dfa"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/nether_wart_block.json"
+hash = "2adb4323dc206718d4311ad9260328418f273a20ba14a1ea98a41e325e15aeed"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/note_block.json"
@@ -2085,6 +2109,10 @@ hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
 hash = "4eb89f6bd0cf7e2510f282e2982d561099c8283c4bde750d7c4bab82ade2264c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/spyglass.json"
+hash = "29e5c4d644e0aa4ddce7fdc8fdb8fe1a75515b62931316cb340ef3f938329524"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/stews.json"
@@ -2331,12 +2359,28 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "173d16a7d686ef41921230ac3f690151fa4ef291cd941ac8cf961b6375696248"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/gold_block_from_blasting_raw_gold_block.json"
+hash = "b8862a0bd6f3c1ae73cc298bbc5c404307cc3781043472374d7a2d5bcb61e856"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/gold_block_from_smelting_raw_gold_block.json"
+hash = "505b0ea3c058468cdb25e8c3b6d78012eb36cd49b8143e309a96ef1b9db7a339"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/green_dye_from_crafting_cactus.json"
 hash = "aa91eee2c4722ae28326e43a08d5dc118b0acb6e3036350027351e346b19b06f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/horn_coral_block.json"
 hash = "59e200ef773f790547b0e48c852af9c5d519a2be6d0f2a60887ce2b25b31b681"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_block_from_blasting_raw_iron.json"
+hash = "729d5dad7075801ab4b3046f9ad0210fb8be0f1286971b9e01f0aa55612a956f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_block_from_smelting_raw_iron.json"
+hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/mix_brown_dye.json"
@@ -2372,7 +2416,7 @@ hash = "fe192c07d758e74cee4ccdb65281ced6c6149edfd6d66f74bd0611acc72efa15"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/another_furniture_tweaks.json"
-hash = "193d983231bce92d6b00ee1215a9b829d0ddbde2d80f54c217c4a12c49323316"
+hash = "993df69c37cc79058735e577d08200dac142c674dd05f407e335629198d28349"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/banner_encheapening.json"
@@ -2387,12 +2431,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "c02c06cabaedba508e23a09b05c2a4175640752881ae02d26dc5d36a7cc030ba"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/comforts_tweaks.json"
+hash = "f9cde7521ddd1fecd098e8764bb116295cb6fb5d909aa76ac526922e3058b4e5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_cutting_buff.json"
+hash = "c0ac40167ed0fabc89c12b7f5598f2bdb13063396e28b4dea71f31525288bb85"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/door_and_trapdoor_buff.json"
 hash = "c01b88f63ef4b282b2d63e4f8eb5962f46ad68e6d8df03511f2c8cc92390d85a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/eight_blocks.json"
-hash = "f3add2f9bdb63b4378b4a8ba05608cdf9950b6189f052672318061072663f237"
+hash = "3bdb6c2ef3c7d55ca68cf617331e0267b10cbc5735a0c4b8d53fdb108c1d8eeb"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/fence_encheapening.json"
@@ -2460,7 +2512,7 @@ hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "300dd995a9dce4d6b638eafbce39fe1bdfc86cdc3aabf1c3c0468f20ce505a99"
+hash = "affa911f63c362229494f0d46b672abc75c0b550d9214f54a7baa8129601ef83"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"

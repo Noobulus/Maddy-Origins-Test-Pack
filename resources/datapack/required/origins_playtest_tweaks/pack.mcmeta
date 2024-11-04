@@ -54,6 +54,30 @@
     {
         "namespace": "farmersdelight",
         "path": "recipe/cutting/.*_door.json"
+    },
+    {
+        "namespace": "everycomp",
+        "path": "recipe/af/.*"
+    },
+    {
+        "namespace": "everycomp",
+        "path": "recipe/dd/.*"
+    },
+    {
+        "namespace": "everycomp",
+        "path": "recipe/fd/.*"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/hay_block.json"
+    },
+    {
+        "namespace": "comforts",
+        "path": "recipe/rope_and_nail.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/scaffolding.json"
     }]
   }
 }

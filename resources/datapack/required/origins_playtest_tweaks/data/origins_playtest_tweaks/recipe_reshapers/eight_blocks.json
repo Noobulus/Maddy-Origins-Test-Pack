@@ -10,11 +10,6 @@
             "output_count": 1
         },
         {
-            "pattern": "*********",
-            "output_token": "#",
-            "output_count": 1
-        },
-        {
             "pattern": "#",
             "output_token": "*",
             "output_count": 9
