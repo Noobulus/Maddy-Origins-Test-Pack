@@ -892,11 +892,6 @@ hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
-file = "mods/paucal.pw.toml"
-hash = "72a8526c2bd60547956586bbb9437c835c8ab9370b7e837597222b25a4d85c36"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
