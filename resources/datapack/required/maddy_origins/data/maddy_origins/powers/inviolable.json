@@ -12,5 +12,9 @@
     "modifier": {
         "operation": "add_base_late",
         "amount": -2
+    },
+    "self_action": {
+        "type": "origins:play_sound",
+        "sound": "maddy_origins:origin.construct.inviolable_activated"
     }
 }

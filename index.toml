@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "84d7829103b314743bd9760cb6cd0d101c7c39d8ddfe5114de0d03c7730c3df9"
+hash = "80c54802303925188e17006fdbaad0c05c007d2e35a107ecfb238ff6118e402a"
 metafile = true
 
 [[files]]
@@ -839,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b6beb8f27a225b4ba3e2a310854fe744dbe860c104ab50c2a1eed0132f2ef7ab"
+hash = "ca47bd1fc08ce111a6fc9bf93a8e85772365db69d674fca445c329248ffc50f3"
 metafile = true
 
 [[files]]
@@ -1265,7 +1265,7 @@ hash = "65766acddb2006a470ea4701211369c846647d175596c0cec2110366944aeb2b"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/brittle.json"
-hash = "a0cee1fa032b04fd59092cf096d6ea03cc2cba3e5e6c17132cc8403547760e18"
+hash = "6ab422d8a2756ecd76aee73d2fc30dcec0493c0c56e73ddfa8ba89056606e834"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/cold_sensitive.json"
@@ -1345,7 +1345,7 @@ hash = "ef070606819e773601152f70396e4a67844b8cd9dd1c76051133e83bb87d2d57"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/inviolable.json"
-hash = "b0c85ae3223254feecb698ac8fdd2a081d13f85abcead6131fbf8c424d3b2484"
+hash = "d8ace18f570fd7480d6610bdda1b8ecb75b6cec401fd79d3bddcbe0f1aa507ae"
 
 [[files]]
 file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/necrotic.json"
@@ -2737,11 +2737,11 @@ hash = "9bd5c4877efc86a8fd9588ef1be1ab6b5ab1b996c3e81b6c15ece17c8e642e3e"
 
 [[files]]
 file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/lang/en_us.json"
-hash = "b5fe914d2db0c9dc4cfb4043dbd509f640d236e651c30de908c7f22cda1f85c9"
+hash = "00f1cb8e297703400d2889a4cec1ee41c6a25fad2e6bb03c93acdc2d9a35cda8"
 
 [[files]]
 file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/sounds.json"
-hash = "a9c0f9836e73ef5380c8e3d45abc39699456a7850e356bfd65821e2493d805d6"
+hash = "8e53d58b914b6bece6d38b9555affe595be28de71f75fb6e7b990e0a9a9ac318"
 
 [[files]]
 file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/textures/gui/inorganic.png"

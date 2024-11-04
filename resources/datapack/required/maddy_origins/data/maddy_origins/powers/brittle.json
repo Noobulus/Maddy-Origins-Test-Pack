@@ -36,7 +36,7 @@
                 {
                     "type": "origins:amount",
                     "comparison": ">=",
-                    "compare_to": 4
+                    "compare_to": 6
                 }
             ]
         },
@@ -44,6 +44,6 @@
             "type": "origins:random_chance",
             "chance": 0.5
         },
-        "cooldown": 100
+        "cooldown": 1200
     }
 }
