@@ -1,7 +1,7 @@
 {
 	"useExperimentalCaching": true,
 	"clientOptions": {
-		"equipControl": "MUST_NOT_CROUCH",
+		"equipControl": "DISABLED",
 		"forceNullRenderReplacement": false,
 		"disableEmptySlotScreenError": false,
 		"showCosmeticAccessories": false,

@@ -23,7 +23,11 @@
     "result_family": [
         {
             "id_suffix": "_eight_compacting",
-            "pattern": "********",
+            "pattern": [
+                "***",
+                "* *",
+                "***"
+            ],
             "output_token": "#",
             "output_count": 1,
             "category": "misc"
