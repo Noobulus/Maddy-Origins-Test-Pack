@@ -480,6 +480,11 @@ hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
 metafile = true
 
 [[files]]
+file = "mods/blame-log.pw.toml"
+hash = "1f9ea8c9fdecbdf356283f370efdbe27e774ad73718e68399c798e6442b399b7"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "e806de71f80ccfa6e9cbcc73e9192eeb5efad691d620dc42bab52454ffd92d39"
 metafile = true
@@ -487,11 +492,6 @@ metafile = true
 [[files]]
 file = "mods/brainier-bees.pw.toml"
 hash = "cc3c46250286b41f429f69ac3a8e01e1194afc951cc77101032cddaccc051f12"
-metafile = true
-
-[[files]]
-file = "mods/branded-logs.pw.toml"
-hash = "f7f80641227bc16b46fe13c9100ad7f1ad0e9ffb2d437d7f17cfb0eac4f0babd"
 metafile = true
 
 [[files]]
