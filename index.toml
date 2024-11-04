@@ -385,6 +385,10 @@ file = "config/yosbr/options.txt"
 hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
 
 [[files]]
+file = "icon.png"
+hash = "241cb6e6d09d75a75cc5e53b3b343336d2089a44ca47f8e73794f3672ce6d513"
+
+[[files]]
 file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
 hash = "0f7038a12a9ebf586426c75f15fdb537ba4269083529400fc29b854cd190939e"
 
