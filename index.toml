@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "d6c35ed0fef6b7e708e007bf2f885b0c839ad3024870467ca352d7ed4b776c06"
+hash = "e43ec2832e62efbb8625a0ccb57de93c7fa2bdcb1f53ecf6f60824cac738a9a1"
 metafile = true
 
 [[files]]
@@ -647,6 +647,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "559829422c0b39e55c7e7224940337de1630284027d2aca0a0e214fc9ca42b92"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-disabler.pw.toml"
+hash = "d25a1730602ff5253821cce6d3903677000aed8be17272ffd717c5d1339c40e8"
 metafile = true
 
 [[files]]
@@ -2028,10 +2033,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "9b6b236408d3d3b031d40d4276b730cd6f7f6456cee202131e2f50711361ba52"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins/enchantment/water_protection.json"
-hash = "a97a0dbac63e0566555aeadb30fda668ee9eac5efa4763f2b80f8d8c1c2f4179"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
@@ -2761,7 +2762,7 @@ hash = "c108e655bd3408a5504d196a2a56e42775f1c7fb89802fabc0c74dcc976f7e48"
 
 [[files]]
 file = "unsup.ini"
-hash = "0f9fc295e719d1b4077f7de77f7dcb055ac48958860ed88f403e267728c4e9de"
+hash = "cade40ad8975f48420b02134a6813ade31d49930a545fb7f3c0def344d86f9a4"
 
 [[files]]
 file = "unsup.toml"
