@@ -755,6 +755,11 @@ hash = "08fe46bf55fe5528a8fdaba97955b724d4a0be9c83c19225fb00913c632903a9"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
+metafile = true
+
+[[files]]
 file = "mods/indypets.pw.toml"
 hash = "109022e47e5783880c2d78c4b1945f5a6d93198e968b6ddd156fac193f8b9e34"
 metafile = true
@@ -2757,3 +2762,7 @@ hash = "c108e655bd3408a5504d196a2a56e42775f1c7fb89802fabc0c74dcc976f7e48"
 [[files]]
 file = "unsup.ini"
 hash = "0f9fc295e719d1b4077f7de77f7dcb055ac48958860ed88f403e267728c4e9de"
+
+[[files]]
+file = "unsup.toml"
+hash = "80963bae80bdf8a898ede9ec4bdfaf068449e2d04056dfa722d717f4c87bf35d"
