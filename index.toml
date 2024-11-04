@@ -74,7 +74,7 @@ hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
 
 [[files]]
 file = "config/comforts-server.toml"
-hash = "00097d03bb5a4016c869695ecce545a38391c7089d8bd9f80cd6feccbae9738e"
+hash = "20d86f6b502b02d41e1ae3e25a73d9aa689d52203baf8a0c727bb670251ad9cf"
 
 [[files]]
 file = "config/connectiblechains.toml"
@@ -187,6 +187,10 @@ hash = "9bd850707a07e9eb59ecbff6a86384ce7521784492431ba09de00fa950ebe81e"
 [[files]]
 file = "config/pehkui/config.json"
 hash = "22a6ec961fb61ce3f23d3479e5e277f315cb7625f28231f09865ae95ffcbcefe"
+
+[[files]]
+file = "config/pigs_have_litters.json5"
+hash = "e5b7adb2bbaab8fc7ef0b9534d43c85cd99042d173a935cead487998bba327bb"
 
 [[files]]
 file = "config/porting_lib_config.toml"
@@ -757,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+hash = "0382e17bb9cfb6e3f111ddcc69438cfa45dfa43d367651f736ab0e2a065f69c6"
 metafile = true
 
 [[files]]
@@ -920,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-reshaper.pw.toml"
-hash = "4b21bffff091989f1c1e643a0a608ccae736ceea3c8ef655fa4614406531e1ef"
+hash = "f7ae92f6acebc16de62831091aeb4d3f81cbed1adade8c614ad1f55afd95e347"
 metafile = true
 
 [[files]]
@@ -2128,7 +2132,7 @@ hash = "ba872923b43e3afb15bc8bf7f8ff00af6b900554c2ab78f16e743d6ed06c67e8"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/shelves.json"
-hash = "bce72f4b063181a6b4eff61c8ffdb9bf751fc0d2dbf65899332f615ddc3c2e7e"
+hash = "1eebbb15b711c3fdb2159669e1599f85bdab06770d63f6aae2cf196ec53c3f0d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/short_doors.json"
@@ -2340,7 +2344,7 @@ hash = "fe192c07d758e74cee4ccdb65281ced6c6149edfd6d66f74bd0611acc72efa15"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/another_furniture_tweaks.json"
-hash = "ff701201f2383b39bd743c75a956f2799817d196a751afefa890422da00823f7"
+hash = "193d983231bce92d6b00ee1215a9b829d0ddbde2d80f54c217c4a12c49323316"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/banner_encheapening.json"
@@ -2357,6 +2361,10 @@ hash = "c02c06cabaedba508e23a09b05c2a4175640752881ae02d26dc5d36a7cc030ba"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/door_and_trapdoor_buff.json"
 hash = "c01b88f63ef4b282b2d63e4f8eb5962f46ad68e6d8df03511f2c8cc92390d85a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/eight_blocks.json"
+hash = "ea51e92463f3057c95d94acb17f08612f1d68ae4565b570adbfee5ea8f48bde3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/fence_encheapening.json"
