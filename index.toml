@@ -495,6 +495,11 @@ hash = "cc3c46250286b41f429f69ac3a8e01e1194afc951cc77101032cddaccc051f12"
 metafile = true
 
 [[files]]
+file = "mods/branded-logs.pw.toml"
+hash = "f7f80641227bc16b46fe13c9100ad7f1ad0e9ffb2d437d7f17cfb0eac4f0babd"
+metafile = true
+
+[[files]]
 file = "mods/bundle-pins.pw.toml"
 hash = "ab46e199edeec40be9257af33b82ca2402625ba4fce0722274623bd2f919dc9b"
 metafile = true
