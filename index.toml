@@ -906,11 +906,6 @@ hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
-file = "mods/polymorph.pw.toml"
-hash = "40e562a5740782fcade12bf5f370da4a1b01692868946eafb0252237e73c9a90"
-metafile = true
-
-[[files]]
 file = "mods/preferred-gamerules.pw.toml"
 hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
 metafile = true
@@ -2777,7 +2772,7 @@ hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "ee8976deb0fe89242388d23c99b345ab359f82f51aea496d55602ddb0a1b116a"
+hash = "5e75b1f9a12e71f867af73ff3575460f1b5d780ce9dc01f1791c49c347976aa4"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
