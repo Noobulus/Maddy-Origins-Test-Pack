@@ -490,6 +490,11 @@ hash = "cc3c46250286b41f429f69ac3a8e01e1194afc951cc77101032cddaccc051f12"
 metafile = true
 
 [[files]]
+file = "mods/branded-logs.pw.toml"
+hash = "f7f80641227bc16b46fe13c9100ad7f1ad0e9ffb2d437d7f17cfb0eac4f0babd"
+metafile = true
+
+[[files]]
 file = "mods/bundle-pins.pw.toml"
 hash = "ab46e199edeec40be9257af33b82ca2402625ba4fce0722274623bd2f919dc9b"
 metafile = true
@@ -1025,6 +1030,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
